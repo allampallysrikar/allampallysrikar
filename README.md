@@ -11,7 +11,6 @@
 
 - 🎓 CS student passionate about **AI, Web Development & IoT**
 - 🌍 Based in India — actively looking for **remote junior developer roles**
-- 🔭 Currently building multilingual NLP tools and exploring deep learning
 - 💡 I love turning ideas into real, deployed products with live demos
 - 📬 Reach me at **allampallysrikar2005@gmail.com**
 
