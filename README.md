@@ -7,6 +7,16 @@
 
 ---
 
+## 👨‍💻 About Me
+
+- 🎓 CS student passionate about **AI, Web Development & IoT**
+- 🌍 Based in India — actively looking for **remote junior developer roles**
+- 🔭 Currently building multilingual NLP tools and exploring deep learning
+- 💡 I love turning ideas into real, deployed products with live demos
+- 📬 Reach me at **allampallysrikar2005@gmail.com**
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:**
@@ -64,6 +74,9 @@
   </a>
   <a href="https://github.com/allampallysrikar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/srikarallampally">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
