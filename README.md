@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Srikar Allampally</h1>
-<h3 align="center">Junior Software Developer from India 🇮🇳 | Open to Remote Opportunities</h3>
+<h3 align="center">AI-Native Full-Stack Developer from India 🇮🇳</h3>
+<h4 align="center"><em>"I build anything. AI handles the rest."</em></h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vliney=true&width=435&lines=Python+%7C+JavaScript+%7C+Java+%7C+C;Building+Web+Apps+%26+AI+Tools;IoT+Enthusiast+%7C+ML+Explorer;Open+to+Remote+Junior+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vliney=true&width=500&lines=AI-Native+Full-Stack+Developer;Web+%7C+ML+%7C+IoT+%7C+Prompt+Engineering;Claude+%7C+Gemini+CLI+%7C+Cursor+%7C+Codex;I+build+anything.+AI+handles+the+rest." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 CS student passionate about **AI, Web Development & IoT**
-- 🌍 Based in India — actively looking for **remote junior developer roles**
-- 💡 I love turning ideas into real, deployed products with live demos
+- 🤖 **AI-Native Developer** — I orchestrate Claude, Gemini CLI, Cursor & Codex to ship real products
+- 🌍 Based in India — actively looking for **remote developer roles**
+- 🔭 Building web apps, ML pipelines & IoT systems with AI as my co-pilot
+- 💡 Shipped 4 deployed projects across NLP, computer vision, IoT & web
+- ⚡ I don't have a skill ceiling — **AI fills the gaps**
 - 📬 Reach me at **allampallysrikar2005@gmail.com**
 
 ---
@@ -30,15 +33,28 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-F9A825?style=for-the-badge&logo=gradio&logoColor=white)
 
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**AI Tools I use:**
+**🤖 AI Tools:**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+**💻 Editors:**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-6C63FF?style=for-the-badge&logoColor=white)
+
+**🔌 Hardware & IoT:**
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+**🛠️ Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -46,10 +62,10 @@
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| [🤖 Nexus AI](https://github.com/allampallysrikar/nexus-ai) | Multilingual NLP platform — Translation, Sentiment Analysis, Summarization & NER powered by HuggingFace Transformers | Flask · Python · HuggingFace · JS | [Live Demo](https://huggingface.co/spaces/srikar2005/nexus-ai) |
-| [🏠 RoomQR-Web](https://github.com/allampallysrikar/RoomQR-Web) | IoT smart room control panel via MQTT — control lights, blinds, fan, AC & TV | HTML · CSS · JS · MQTT | [Live Demo](https://allampallysrikar.github.io/RoomQR-Web/) |
-| [🌤️ Weather Dashboard](https://github.com/allampallysrikar/Weather_Dashboard) | Real-time weather app with 7-day forecast using Open-Meteo API | Vanilla JS · HTML · CSS | [Live Demo](https://allampallysrikar.github.io/Weather_Dashboard/) |
-| [🧠 CNN Classifier](https://github.com/allampallysrikar/CNN_Classification) | CNN image classifier built with TensorFlow/Keras — trained to recognize animal images | Python · TensorFlow · Keras | [Live Demo](https://huggingface.co/spaces/srikar2005/cnn-animal-classifier) |
+| [🤖 Nexus AI](https://github.com/allampallysrikar/nexus-ai) | Multilingual NLP platform — Translation, Sentiment Analysis, Summarization & NER across 10 languages | Flask · HuggingFace · Gradio · Python | [Live Demo](https://huggingface.co/spaces/srikar2005/nexus-ai) |
+| [🏠 RoomQR-Web](https://github.com/allampallysrikar/RoomQR-Web) | IoT smart room control panel — controls lights, blinds, fan, AC & TV via real MQTT broker + ESP32 | HTML · CSS · JS · MQTT · ESP32 | [Live Demo](https://allampallysrikar.github.io/RoomQR-Web/) |
+| [🌤️ Weather Dashboard](https://github.com/allampallysrikar/Weather_Dashboard) | Real-time weather app with 7-day forecast — zero dependencies, pure async JS | Vanilla JS · HTML · CSS · Open-Meteo API | [Live Demo](https://allampallysrikar.github.io/Weather_Dashboard/) |
+| [🧠 CNN Classifier](https://github.com/allampallysrikar/CNN_Classification) | EfficientNetB0 image classifier — identifies 1000 ImageNet classes from any photo | Python · TensorFlow · Gradio | [Live Demo](https://huggingface.co/spaces/srikar2005/cnn-animal-classifier) |
 
 ---
 
