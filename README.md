@@ -37,10 +37,10 @@
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| [🤖 Nexus AI](https://github.com/allampallysrikar/nexus-ai) | Multilingual NLP platform — Translation, Sentiment Analysis, Summarization & NER powered by HuggingFace Transformers | Flask · Python · HuggingFace · JS | Coming Soon |
+| [🤖 Nexus AI](https://github.com/allampallysrikar/nexus-ai) | Multilingual NLP platform — Translation, Sentiment Analysis, Summarization & NER powered by HuggingFace Transformers | Flask · Python · HuggingFace · JS | [Live Demo](https://huggingface.co/spaces/srikar2005/nexus-ai) |
 | [🏠 RoomQR-Web](https://github.com/allampallysrikar/RoomQR-Web) | IoT smart room control panel via MQTT — control lights, blinds, fan, AC & TV | HTML · CSS · JS · MQTT | [Live Demo](https://allampallysrikar.github.io/RoomQR-Web/) |
 | [🌤️ Weather Dashboard](https://github.com/allampallysrikar/Weather_Dashboard) | Real-time weather app with 7-day forecast using Open-Meteo API | Vanilla JS · HTML · CSS | [Live Demo](https://allampallysrikar.github.io/Weather_Dashboard/) |
-| [🧠 CNN Classifier](https://github.com/allampallysrikar/CNN_Classification) | CNN image classifier built with TensorFlow/Keras — trained to recognize animal images | Python · TensorFlow · Keras | — |
+| [🧠 CNN Classifier](https://github.com/allampallysrikar/CNN_Classification) | CNN image classifier built with TensorFlow/Keras — trained to recognize animal images | Python · TensorFlow · Keras | [Live Demo](https://huggingface.co/spaces/srikar2005/cnn-animal-classifier) |
 
 ---
 
